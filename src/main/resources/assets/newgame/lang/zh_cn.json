@@ -1,0 +1,8 @@
+{
+  "button.yourmodid.custom": "新游戏",
+  "new_game.processing": "加载中",
+  "new_game.confirmation.title": "new_game_confirmation_ui",
+  "new_game.confirmation.confirm": "确认",
+  "new_game.confirmation.cancel": "取消",
+  "new_game.confirmation.alert_text": "这个操作会删除已有的全部存档"
+}

@@ -1,0 +1,8 @@
+{
+  "button.yourmodid.custom": "NewGame",
+  "new_game.processing": "processing",
+  "new_game.confirmation.title": "new_game_confirmation_ui",
+  "new_game.confirmation.confirm": "confirm",
+  "new_game.confirmation.cancel": "cancel",
+  "new_game.confirmation.alert_text": "This operation will delete all existing save files"
+}
